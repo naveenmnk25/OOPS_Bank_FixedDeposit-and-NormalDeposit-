@@ -1,0 +1,8 @@
+C:\Users\HAI\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\HAI\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\HAI\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\HAI\source\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\HAI\source\repos\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAI\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\HAI\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\HAI\source\repos\Bank\Bank\obj\Debug\Bank.pdb
